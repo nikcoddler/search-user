@@ -1,0 +1,14 @@
+.user-list{
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px 0px 0px #ddd;
+    border-radius: 10px;
+    margin-top: 10px;
+    color: black;
+}
+
+table, th, td {
+    border-top:1px solid black;
+  }
