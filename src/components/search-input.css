@@ -1,0 +1,22 @@
+.input-wrapper{
+    background-color: white;
+    width: 100%;
+    max-width: 450px;
+    padding: 0 10px;
+    border-radius: 10px;
+    height: 2.5rem;
+    display: flex;
+    align-items: center;
+}
+
+input {
+    background-color: transparent;
+    border: none;
+    height: 100%;
+    font-size: 1.25rem;
+    width: 100%;
+}
+
+input:focus{
+    outline: none;
+}
